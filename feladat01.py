@@ -1,5 +1,5 @@
 print("Hello")
-print("ca")
-print("még egy")
-print("meg egy ")
-a = 12
+meglepi= input("Mire: ")
+hany=int(input("hány: "))
+osszeg=700*hany
+print(osszeg)
